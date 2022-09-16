@@ -14,7 +14,7 @@ function Donation() {
         <div className="donation text-center space-y-10">
           <h1 className="text-3xl font-extrabold">We need some donation</h1>
           <img
-            src="https://1.bp.blogspot.com/-6gumjFutUBA/YRKFtNbIgkI/AAAAAAAAAF4/ASrbkoj49N4Xx6QUUx5HmxJhZhX32GAMACLcBGAsYHQ/s912/bkash-nagad-rocket-1.png"
+            src={"/src/assets/bkash-nagad-rocket-1.png"}
             alt="Image"
             className="mx-auto"
             style={{ width: "18rem" }}
