@@ -1,13 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./Home.css";
+import header_img from "../../assets/header.png"
 
 function Home() {
   return (
     <>
       <div className="container p-4">
         <div className="header">
-          <img className="mx-auto" src="/src/assets/header.png" alt="" />
+          <img className="mx-auto" src={header_img} alt="" />
         </div>
         <div className="main">
           <h1 className="text-4xl font-bold my-4">

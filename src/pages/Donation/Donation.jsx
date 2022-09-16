@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import bnr from "../../assets/bkash-nagad-rocket-1.png";
 import "./Donation.css";
 
 function Donation() {
@@ -14,7 +15,7 @@ function Donation() {
         <div className="donation text-center space-y-10">
           <h1 className="text-3xl font-extrabold">We need some donation</h1>
           <img
-            src={"/src/assets/bkash-nagad-rocket-1.png"}
+            src={bnr}
             alt="Image"
             className="mx-auto"
             style={{ width: "18rem" }}
@@ -31,7 +32,7 @@ function Donation() {
           </div>
           <Link
             to={"/"}
-            className="flex link text-xl mx-auto w-64 py-3 justify-center font-bold relative top-20"
+            className="flex link text-xl mx-auto w-64 py-3 justify-center font-bold"
           >
             BACK
           </Link>
