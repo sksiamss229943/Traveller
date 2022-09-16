@@ -1,0 +1,8 @@
+body {
+    background: #EEF0F4;
+}
+button,.link {
+    background: #EEF0F4;
+    border-radius: 10px;
+    box-shadow: inset 9.91px 9.91px 10px #D5D7DA, inset -9.91px -9.91px 10px #FFFFFF;
+}
