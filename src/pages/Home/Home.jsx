@@ -7,7 +7,7 @@ function Home() {
     <>
       <div className="container p-4">
         <div className="header">
-          <img className="mx-auto" src="/src/assets/header.svg" alt="" />
+          <img className="mx-auto" src="/src/assets/header.png" alt="" />
         </div>
         <div className="main">
           <h1 className="text-4xl font-bold my-4">
