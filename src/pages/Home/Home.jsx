@@ -11,7 +11,7 @@ function Home() {
           <img className="mx-auto" src={header_img} alt="" />
         </div>
         <div className="main">
-          <h1 className="text-4xl font-bold my-4">
+          <h1 className="text-5xl font-bold my-4">
             Welcome <span className="font-extrabold text-6xl">Traveller</span>,
           </h1>
           <h1 className="font-medium">
