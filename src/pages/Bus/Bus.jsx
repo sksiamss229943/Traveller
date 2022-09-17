@@ -7,7 +7,7 @@ function Bus() {
     <>
       <div className="container">
         <div className="buttons mt-4 text-center">
-          <div className="button my-12">
+          <div className="button my-9">
             <h1 className="font-bold text-2xl">Shohagh Paribahan Pvt. Ltd</h1>
             <button className="flex text-xl mx-auto w-48 py-3 justify-center font-bold my-5">
               <a target="#" href="http://shohagh.com/">
@@ -15,7 +15,7 @@ function Bus() {
               </a>
             </button>
           </div>
-          <div className="button my-12">
+          <div className="button my-9">
             <h1 className="font-bold text-2xl">Hanif Enterprise</h1>
             <button className="flex text-xl mx-auto w-48 py-3 justify-center font-bold my-5">
               <a target="#" href="https://www.hanif-enterprise.com/">
@@ -23,7 +23,7 @@ function Bus() {
               </a>
             </button>
           </div>
-          <div className="button my-12">
+          <div className="button my-9">
             <h1 className="font-bold text-2xl">Green Line Paribahan</h1>
             <button className="flex text-xl mx-auto w-48 py-3 justify-center font-bold my-5">
               <a target="#" href="https://www.greenlinebd.com/">
@@ -31,7 +31,7 @@ function Bus() {
               </a>
             </button>
           </div>
-          <div className="button my-12">
+          <div className="button my-9">
             <h1 className="font-bold text-2xl">Shyamoli N.R. Travels</h1>
             <button className="flex text-xl mx-auto w-48 py-3 justify-center font-bold my-5">
               <a target="#" href="https://www.shyamoliparibahan-bd.com/">
@@ -39,7 +39,7 @@ function Bus() {
               </a>
             </button>
           </div>
-          <div className="button my-12">
+          <div className="button my-11">
             <h1 className="font-bold text-2xl">Eagle Paribahan</h1>
             <button className="flex text-xl mx-auto w-48 py-3 justify-center font-bold my-5">
               <a target="#" href="https://www.eagleparibahan.com/">
@@ -55,7 +55,7 @@ function Bus() {
           BACK
         </Link>
       </div>
-      <footer class="p-4 bg-white shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-800">
+      <footer class="p-4 bg-white shadow md:flex md:items-center select-none md:justify-between md:p-6 dark:bg-gray-800">
         <h4 className="text-white font-bold text-center py-4">
           MADE WITH ❤️ BY <span className="text-2xl">SIAM</span>.
         </h4>

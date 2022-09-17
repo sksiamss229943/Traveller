@@ -22,13 +22,13 @@ function Donation() {
               style={{ width: "18rem" }}
             />
             <div className="email space-y-2">
-              <h1 className="text-3xl font-bold">Email</h1>
+              <h1 className="text-3xl font-extrabold">E-mail</h1>
               <h1 className="font-extrabold text-xl">
                 mohammadali.150236@gmail.com
               </h1>
             </div>
             <div className="Number space-y-2">
-              <h1 className="text-3xl font-bold">Number</h1>
+              <h1 className="text-3xl font-extrabold">Number</h1>
               <h1 className="font-extrabold text-2xl">01782576700</h1>
             </div>
             <Link
@@ -39,7 +39,7 @@ function Donation() {
             </Link>
           </div>
         </div>
-        <footer class="p-4 bg-white w-full shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-800">
+        <footer class="p-4 select-none bg-white w-full shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-800">
           <h4 className="text-white font-bold text-center py-4">
             MADE WITH ❤️ BY <span className="text-2xl">SIAM</span>.
           </h4>
